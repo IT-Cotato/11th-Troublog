@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # 서브모듈 포인터 자동 업데이트
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"          # 레포 루트에 .gitmodules가 있으므로 /
+    schedule:
+      interval: "daily"     # 매일 체크 (혹은 "weekly")
+    # optional: 특정 경로만 관리하고 싶을 때 allow 사용 가능
+    # allow:
+    #   - dependency-name: "backend"
+    #   - dependency-name: "frontend"
+
