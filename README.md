@@ -1,9 +1,10 @@
 <div align="center">
 
 # <img src="/images/icon.png" width="32" height="32" alt="Troublog Icon"/> Troublog
+[![배포 링크][deploy-shield]][deploy-url]
 
-### ✨ 개발자의 트러블슈팅이 성장으로 이어지는 곳 ✨
 
+### ✨ 개발자의 트러블슈팅이 성장으로 이어지는 곳 ✨\
 </div>
 
 <div>
@@ -40,7 +41,7 @@
 
 ### 네이밍 의미
 
-**『트러블로그 (Troublog)』**는 두 가지 의미를 담고 있습니다:
+**『트러블로그 (Troublog)』** 는 두 가지 의미를 담고 있습니다:
 
 1. **Trouble + log**
    - '버그나 트러블슈팅 기록'이라는 서비스의 핵심 목적을 명확히 전달
@@ -271,3 +272,6 @@
 *Made with ❤️ by [11th-Troublog](https://github.com/orgs/IT-Cotato/teams/11th-troublog) Team*
 
 </div>
+
+[deploy-url]: https://troublog.com
+[deploy-shield]: https://img.shields.io/badge/-troublog.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white
